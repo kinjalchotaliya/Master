@@ -1,0 +1,2 @@
+RubyLearning.com is a thorough collection of Ruby Study Notes for those who are new to the Ruby programming language and 
+in search of a solid introduction to Ruby's concepts and constructs
